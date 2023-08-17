@@ -40,7 +40,7 @@
 
 ## Live Demo
 
-[Live Demo]()
+[coming soon]
 
 ## Getting started
 
