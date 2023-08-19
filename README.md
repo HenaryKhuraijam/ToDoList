@@ -40,7 +40,7 @@
 
 ## Live Demo
 
-[coming soon]
+[Live Demo](https://henarykhuraijam.github.io/ToDoList/dist/)
 
 ## Getting started
 
