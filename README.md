@@ -68,7 +68,7 @@ Go to the Folder where want to copy this repo and type the following cmds in you
 
 - GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraijam)
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
-- LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam)
+- LinkedIn: [@Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam-50487317a/)
 
 👤 **Mohammad Yaser**
 
