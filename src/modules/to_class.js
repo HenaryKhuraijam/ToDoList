@@ -20,7 +20,6 @@ class ArrTasks {
     this.tasks.push(this.newTask(description));
   }
 
-
   deleteTask(arrIndex) {
     this.tasks.splice(arrIndex, 1);
     this.updateIndex();
