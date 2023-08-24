@@ -38,10 +38,6 @@
 - [Adding Index.html and style.css]
 - [styling a text using class giving a appropriate font size,margin,image,padding]
 
-## Live Demo
-
-[coming soon]
-
 ## Getting started
 
 Go to the Folder where want to copy this repo and type the following cmds in you terminal:
@@ -73,6 +69,12 @@ Go to the Folder where want to copy this repo and type the following cmds in you
 - GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraijam)
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
 - LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam)
+
+👤 **Mohammad Yaser**
+
+- GitHub: [@githubhandle](https://github.com/MohammadYaser)
+- Twitter: [@twitterhandle](https://twitter.com/Yaser_Safi19)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-yaser-safi-a12083270)
 
 ## 🔭 Future Features <a name="future-features"></a>
    -Making responsive website
